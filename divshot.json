@@ -1,3 +1,4 @@
 {
-	"name":polymerproject.divshot.io
+	"name" : "polymerproject",
+	"root" : "./dist"
 }
